@@ -1,2 +1,2 @@
 f1: major
-f3: minor
+f2: major
